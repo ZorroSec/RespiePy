@@ -7,4 +7,4 @@ import requests
 
 if __name__ == '__main__':
     os.system('clear||cls')
-    bot.run('MTEyOTE4MzAyNjExMTMyMDExNA.G5AJLi.VcnorAJ4wgSvyWfgHpjmGP7Ru1W02XuZ7-FlPk')
+    bot.run('MTEyOTE4MzAyNjExMTMyMDExNA.GbNwXD.RVrxuneNM7UZBmIiXm_9pXqBNkmaB_qLw4QkOg')

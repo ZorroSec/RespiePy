@@ -8,3 +8,4 @@ bot = commands.Bot(command_prefix='$', intents=intents)
 
 from app.components import test
 from app.components import fox
+from app.components import cep
