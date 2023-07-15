@@ -12,3 +12,4 @@ from app.components import cep
 from app.components import cnpj
 from app.components import address
 from app.components import climate
+from app.components import cepv2
